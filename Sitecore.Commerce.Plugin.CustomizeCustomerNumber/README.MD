@@ -1,5 +1,5 @@
 ﻿
-Sitecore Commerce Engine Customize Customer Number plugin (Sitecore Commerce 9)
+Sitecore Commerce Engine Customize Customer Number plugin (Sitecore Commerce 9.1)
 ======================================
 
 This plugin allows the user to customize customer number. At the moment, Commerce Engine returns random guid strings 
